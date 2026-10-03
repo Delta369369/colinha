@@ -5481,9 +5481,12 @@
       "party": "PT",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002542548.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002542548",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "14",
@@ -5491,9 +5494,12 @@
       "party": "MISSÃO",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002540694.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002540694",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "16",
@@ -5501,9 +5507,12 @@
       "party": "PSTU",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002541457.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002541457",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "21",
@@ -5511,9 +5520,12 @@
       "party": "PCB",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002551975.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002551975",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "22",
@@ -5534,9 +5546,12 @@
       "party": "DC",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002552484.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002552484",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "29",
@@ -5544,9 +5559,12 @@
       "party": "PCO",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002552487.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002552487",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "30",
@@ -5554,9 +5572,12 @@
       "party": "NOVO",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002539826.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002539826",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "35",
@@ -5564,9 +5585,12 @@
       "party": "DEMOCRATA",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002548139.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002548139",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "55",
@@ -5574,9 +5598,12 @@
       "party": "PSD",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002551932.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002551932",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "70",
@@ -5584,9 +5611,12 @@
       "party": "AVANTE",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002551547.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002551547",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "80",
@@ -5594,9 +5624,12 @@
       "party": "UP",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002538811.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002538811",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     }
   ]
 }

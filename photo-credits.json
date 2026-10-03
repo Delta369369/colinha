@@ -1,5 +1,5 @@
 {
-  "source": "TSE — Portal de Dados Abertos, Candidatos 2026, MT — Fotos de candidatos; BR — Foto de FLÁVIO BOLSONARO",
+  "source": "TSE — Portal de Dados Abertos: MT e BR — Fotos de candidatos 2026",
   "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/ce184315-269e-49fa-a0d7-fab95286e0f3",
   "license": "Creative Commons Atribuição (conforme catálogo do TSE)",
   "licenseUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026",
@@ -3380,6 +3380,105 @@
       "office": "presidente",
       "photo": "assets/photos/br/280002551544.jpg",
       "archiveFile": "FBR280002551544_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002542548",
+      "name": "LULA",
+      "number": "13",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002542548.jpg",
+      "archiveFile": "FBR280002542548_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002540694",
+      "name": "RENAN SANTOS",
+      "number": "14",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002540694.jpg",
+      "archiveFile": "FBR280002540694_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002541457",
+      "name": "HERTZ DIAS",
+      "number": "16",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002541457.jpg",
+      "archiveFile": "FBR280002541457_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002551975",
+      "name": "EDMILSON COSTA",
+      "number": "21",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002551975.jpg",
+      "archiveFile": "FBR280002551975_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002552484",
+      "name": "CLARIANA BARÃO",
+      "number": "27",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002552484.jpg",
+      "archiveFile": "FBR280002552484_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002552487",
+      "name": "RUI COSTA PIMENTA",
+      "number": "29",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002552487.jpg",
+      "archiveFile": "FBR280002552487_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002539826",
+      "name": "ROMEU ZEMA",
+      "number": "30",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002539826.jpg",
+      "archiveFile": "FBR280002539826_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002548139",
+      "name": "WILSON GRASSI",
+      "number": "35",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002548139.jpg",
+      "archiveFile": "FBR280002548139_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002551932",
+      "name": "RONALDO CAIADO",
+      "number": "55",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002551932.jpg",
+      "archiveFile": "FBR280002551932_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002551547",
+      "name": "AUGUSTO CURY",
+      "number": "70",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002551547.jpg",
+      "archiveFile": "FBR280002551547_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
+    },
+    {
+      "tseId": "280002538811",
+      "name": "SAMARA MARTINS",
+      "number": "80",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002538811.jpg",
+      "archiveFile": "FBR280002538811_div.jpg",
       "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     }
   ],
