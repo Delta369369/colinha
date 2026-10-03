@@ -16,7 +16,11 @@ Em **Settings → Pages → Build and deployment**, escolha **GitHub Actions**. 
 
 As fontes do TRE-MT estão em `build-data.py`. Execute `python build-data.py` para importar novamente essas páginas; isso não atualiza a data original da fonte nem verifica a situação de cada candidatura. Os registros presidenciais precisam de revisão específica. A data indicada na interface e na exportação deve acompanhar qualquer atualização das fontes.
 
-A consulta automatizada ao endpoint de candidatos do TSE foi bloqueada (HTTP 403). Portanto, a primeira versão usa miniaturas com iniciais e **não inclui fotos reais**. O campo `photo` de cada registro aceita um caminho relativo para uma fotografia oficial previamente verificada. Prefira fotos no próprio repositório: imagens externas sem CORS podem impedir exportação pelo canvas. Não associar fotos por mera semelhança de nomes.
+As fotos dos **421 candidatos de MT** foram obtidas do pacote oficial [MT — Fotos de candidatos do TSE](https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/ce184315-269e-49fa-a0d7-fab95286e0f3). O recurso informa licença Creative Commons Atribuição. Crédito: **TSE — Portal de Dados Abertos**. Os JPEGs originais ficam em `assets/photos/mt/<identificador-TSE>.jpg`, sem alteração do arquivo; apenas o enquadramento visual das miniaturas e do cartão é aplicado. Não foram adicionadas fotos de candidatos da Presidência.
+
+`photo-credits.json` registra o vínculo entre identificador TSE, nome, cargo, número, caminho local e nome do arquivo no ZIP original. A fonte e o crédito também aparecem no site, no texto copiado e no cartão exportado. Se uma fotografia ficar indisponível, as iniciais continuam como fallback.
+
+O cartão agora mede 1080 × 1030 pixels, com fundo escuro, destaques em verde, ciano e roxo, seis linhas compactas e números grandes.
 
 ## Funcionalidades
 

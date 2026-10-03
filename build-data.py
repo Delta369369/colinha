@@ -13,6 +13,14 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=4) as ex: data=sum(list(e
 for num,name,party in [('13','LULA','PT'),('14','RENAN SANTOS','MISSÃO'),('16','HERTZ DIAS','PSTU'),('21','EDMILSON COSTA','PCB'),('22','FLÁVIO BOLSONARO','PL'),('27','CLARIANA BARÃO','DC'),('29','RUI COSTA PIMENTA','PCO'),('30','ROMEU ZEMA','NOVO'),('35','WILSON GRASSI','DEMOCRATA'),('55','RONALDO CAIADO','PSD'),('70','AUGUSTO CURY','AVANTE'),('80','SAMARA MARTINS','UP')]:
  data.append(dict(number=num,name=name,party=party,office='presidente',state='BR',photo=None,source='https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm',referenceDate='2026-10-02'))
 parties={'10':'REPUBLICANOS','11':'PP','12':'PDT','13':'PT','14':'MISSÃO','15':'MDB','16':'PSTU','18':'REDE','20':'PODEMOS','21':'PCB','22':'PL','23':'CIDADANIA','25':'PRD','27':'DC','29':'PCO','30':'NOVO','35':'DEMOCRATA','36':'AGIR','40':'PSB','43':'PV','44':'UNIÃO BRASIL','45':'PSDB','50':'PSOL','55':'PSD','65':'PCdoB','70':'AVANTE','77':'SOLIDARIEDADE','80':'UP'}
-for c in data: c['party']=parties.get(c['number'][:2],c['party'])
+for c in data:
+ c['party']=parties.get(c['number'][:2],c['party'])
+ m=re.search(r'/20322002026/(\d+)/2026/MT',c['source']) if c['state']=='MT' else None
+ if m:
+  cid=m[1]; c['tseId']=cid
+  if Path(__file__).with_name('assets').joinpath('photos','mt',cid+'.jpg').exists():
+   c['photo']='assets/photos/mt/'+cid+'.jpg'
+   c['photoCredit']='TSE — Portal de Dados Abertos'
+   c['photoSource']='https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/ce184315-269e-49fa-a0d7-fab95286e0f3'
 Path(__file__).with_name('candidates.json').write_text(json.dumps({'election':2026,'notice':'Relações de referência; confira a situação atual no TSE.','candidates':data},ensure_ascii=False,indent=2))
 print({office:sum(c['office']==office for c in data) for office in set(c['office'] for c in data)})

@@ -22,3 +22,6 @@ h1{color:#effff5;text-shadow:0 0 35px #8bffb21a}h1 span{color:#8bffb2}
 .canvas-wrap{border-color:#32e6df40;box-shadow:0 0 25px #32e6df08}
 .actions button{background:#132837;border-color:#356278;color:#71e8f5}.actions button:nth-child(2){background:#12362b;border-color:#377b54;color:#8bffb2}.actions button:nth-child(3){background:#27223d;border-color:#69558f;color:#d4bcff}.actions button:nth-child(4){background:#352033;border-color:#885572;color:#ffb5d9}.actions button:hover{background:#244458}.actions button:nth-child(2):hover{background:#20513e}.actions button:nth-child(3):hover{background:#3b3058}.actions button:nth-child(4):hover{background:#513049}
 button:focus-visible{outline-color:#32e6df}footer{border-top-color:#32e6df30}footer strong{color:#8bffb2}a:hover{color:#54e8f0}
+
+/* Compact study card */
+.canvas-wrap{max-width:480px;margin:20px auto 0;border-radius:14px;background:#080f18}.actions{margin-top:14px}.result #output{padding-bottom:0}
