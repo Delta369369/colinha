@@ -1,4 +1,4 @@
-# Memoriza Voto
+# Memorize Já
 
 Site estático para selecionar candidatos por cargo e gerar um cartão de estudo único. **Ferramenta de estudo. Não utilize durante a votação.**
 
