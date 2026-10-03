@@ -5521,9 +5521,12 @@
       "party": "PL",
       "office": "presidente",
       "state": "BR",
-      "photo": null,
+      "photo": "assets/photos/br/280002551544.jpg",
       "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
-      "referenceDate": "2026-10-02"
+      "referenceDate": "2026-10-02",
+      "tseId": "280002551544",
+      "photoCredit": "TSE — Portal de Dados Abertos",
+      "photoSource": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     },
     {
       "number": "27",

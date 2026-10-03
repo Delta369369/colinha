@@ -1,5 +1,5 @@
 {
-  "source": "TSE — Portal de Dados Abertos, Candidatos 2026, MT — Fotos de candidatos",
+  "source": "TSE — Portal de Dados Abertos, Candidatos 2026, MT — Fotos de candidatos; BR — Foto de FLÁVIO BOLSONARO",
   "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/ce184315-269e-49fa-a0d7-fab95286e0f3",
   "license": "Creative Commons Atribuição (conforme catálogo do TSE)",
   "licenseUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026",
@@ -3372,6 +3372,15 @@
       "office": "governador",
       "photo": "assets/photos/mt/110002544985.jpg",
       "archiveFile": "FMT110002544985_div.jpg"
+    },
+    {
+      "tseId": "280002551544",
+      "name": "FLÁVIO BOLSONARO",
+      "number": "22",
+      "office": "presidente",
+      "photo": "assets/photos/br/280002551544.jpg",
+      "archiveFile": "FBR280002551544_div.jpg",
+      "sourceUrl": "https://dadosabertos.tse.jus.br/pt_BR/dataset/candidatos-2026/resource/e8f0a648-b438-4117-814a-f32f4c4977c8"
     }
   ],
   "missing": []
