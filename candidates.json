@@ -1,0 +1,4336 @@
+{
+  "election": 2026,
+  "notice": "Relações de referência; confira a situação atual no TSE.",
+  "candidates": [
+    {
+      "number": "10000",
+      "name": "VALMIR MORETTO",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547808/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10010",
+      "name": "KELLY DA SAÚDE",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547801/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10022",
+      "name": "LUIZ SARRAF",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547802/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10044",
+      "name": "PAULO PALHANO",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547796/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10100",
+      "name": "ANA DEFANT",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547811/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10111",
+      "name": "DR. EUGÊNIO",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547793/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10123",
+      "name": "ALEX SANDRO",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547792/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10180",
+      "name": "KALL MARÇAL",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547810/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10190",
+      "name": "CABO VIEIRA",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547795/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10222",
+      "name": "GILBERTO FIGUEREIDO",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547813/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10321",
+      "name": "CRISTIANO BICÔ",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547804/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10333",
+      "name": "DEIVEDY DEX",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547798/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10444",
+      "name": "DIEGO GUIMARÃES",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547799/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10456",
+      "name": "PAULO ARAÚJO",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547800/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10500",
+      "name": "ADEMIR DEBORTOLI",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547806/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10555",
+      "name": "ANGELITA AMORIM",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547797/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10566",
+      "name": "PROFESSORA GECILDA",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547814/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10678",
+      "name": "ARI LAFIN",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547807/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10777",
+      "name": "WLAD MESQUITA",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547805/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10789",
+      "name": "NININHO",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547809/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10800",
+      "name": "SANDRA DONATO",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547812/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10888",
+      "name": "ALAN PORTO",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547794/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10999",
+      "name": "MAYSA LEÃO",
+      "party": "REPUBLICANOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547803/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "11123",
+      "name": "LUCIENE KAYABI",
+      "party": "PP",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002554223/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12000",
+      "name": "ADRIANO BORGES",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549785/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12007",
+      "name": "CHOCOLATE",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549770/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12012",
+      "name": "PROFESSOR EZEQUIEL",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549772/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12023",
+      "name": "ANDRESSA",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549776/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12028",
+      "name": "JANETE SANTOS",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549781/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12100",
+      "name": "JAIRO DOS SANTOS",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549787/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12104",
+      "name": "ADERLEI LAMEL",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549777/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12222",
+      "name": "PRETA DAS DOMÉSTICAS",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551963/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12227",
+      "name": "GABRIEL CARVALHO",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549783/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12244",
+      "name": "ONESIO JURUNA FILHO",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549774/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12300",
+      "name": "FAWZI TIBURI",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549782/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12333",
+      "name": "TAINA ALVES",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549788/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12345",
+      "name": "JAILSON",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549771/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12500",
+      "name": "GIRLANE SILVA",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549775/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12610",
+      "name": "CELOIR GUEDES",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549789/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12700",
+      "name": "DR PABLO",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549773/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12707",
+      "name": "JULIO KAISAH",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549784/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12768",
+      "name": "OSVALDO PEDROSO",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549778/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12777",
+      "name": "SILLO",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549780/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12888",
+      "name": "MARA BADAN",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549790/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12952",
+      "name": "NENE",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549779/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "12999",
+      "name": "CAPELARI",
+      "party": "PDT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549786/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13000",
+      "name": "PASTORELLO",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543211/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13013",
+      "name": "PROF. HENRIQUE LOPES",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543201/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13066",
+      "name": "TIPUICI MANOKI",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543206/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13100",
+      "name": "EMÍDIO DE SOUZA ACDHAM",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543194/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13123",
+      "name": "VALDIR BARRANCO",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543208/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13130",
+      "name": "LÚDIO CABRAL",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543192/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13131",
+      "name": "EDNA SAMPAIO",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543199/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13163",
+      "name": "WELLINGTON CAMPOS",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543207/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13213",
+      "name": "JUNIOR MENDONÇA",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543204/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13333",
+      "name": "PROFESSORA HONEIDE",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543203/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13444",
+      "name": "PROF CARLITO",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543212/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13456",
+      "name": "ELIANE XUNAKALO",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543196/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13510",
+      "name": "ROBINSON CIREIA",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543209/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13813",
+      "name": "KOTA CORTEZ",
+      "party": "PT",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543197/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15000",
+      "name": "ZÉ GOTA",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550837/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15001",
+      "name": "DRA. WANIA DANTAS",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550841/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15011",
+      "name": "MARCIA AMARAL",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550851/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15012",
+      "name": "DAMIANI DA TV",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550857/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15015",
+      "name": "JÉSSICA RIVA",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550846/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15100",
+      "name": "DRA. VANIA VIANA",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550852/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15111",
+      "name": "FABIO DE OLIVEIRA",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550844/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15115",
+      "name": "LEO BORTOLIN",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550859/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15123",
+      "name": "SILVANO AMARAL",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550858/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15151",
+      "name": "DELEGADA JANNIRA",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550840/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15152",
+      "name": "THIAGO SILVA",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550849/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15163",
+      "name": "DRA. ISMAILI DONASSAN",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550839/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15190",
+      "name": "CORONEL VANIA",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550845/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15193",
+      "name": "FABIANO BOMBEIRO",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550842/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15222",
+      "name": "PRIMO BRINDES",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550860/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15321",
+      "name": "MARCINHO LACERDA",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550854/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15333",
+      "name": "DR. ARNALDO",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550855/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15444",
+      "name": "SARGENTO VIDAL",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550848/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15500",
+      "name": "EDLEUSA MESQUITA",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550856/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15555",
+      "name": "ELIZEU DA BOA VISTA",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550836/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15650",
+      "name": "BOTELHO",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550847/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15678",
+      "name": "DR. JOÃO",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550850/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15777",
+      "name": "NATANIEL DE JESUS",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550853/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15789",
+      "name": "TULIO FONTES",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550838/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "15888",
+      "name": "ZÉ NETO DA FATO",
+      "party": "MDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550843/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "18000",
+      "name": "BAIA",
+      "party": "REDE",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548621/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "18007",
+      "name": "PICA-PAU",
+      "party": "REDE",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548603/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "18204",
+      "name": "NISIANE SERGEL",
+      "party": "REDE",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548622/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "18318",
+      "name": "FRANK SABIÁ",
+      "party": "REDE",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548609/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "18354",
+      "name": "PROF. CECILIA",
+      "party": "REDE",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548612/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "18500",
+      "name": "VICENTE SAMPAIO",
+      "party": "REDE",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548613/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "18555",
+      "name": "PASTOR TONINHO DA SUCATA",
+      "party": "REDE",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548620/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "18777",
+      "name": "CARVALHO",
+      "party": "REDE",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548602/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "18888",
+      "name": "MOÍSES RONDON",
+      "party": "REDE",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548608/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "18999",
+      "name": "EDILENE RIBEIRO",
+      "party": "REDE",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548614/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20000",
+      "name": "MAX RUSSI",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542640/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20007",
+      "name": "SALETE BERGAMIN",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542645/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20020",
+      "name": "PROFESSOR ALLAN KARDEC",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542634/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20022",
+      "name": "ULYSSES MORAES",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542636/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20040",
+      "name": "MAURO SAVI",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542639/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20077",
+      "name": "JANAILZA TAVEIRA",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542647/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20100",
+      "name": "ALESSANDRA FERREIRA",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542642/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20111",
+      "name": "GUSTAVO BANG",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542632/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20122",
+      "name": "MERALDO SÁ",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542629/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20123",
+      "name": "CELSO BANAZESKI",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542650/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20190",
+      "name": "SARGENTO CASARIN",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542643/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20200",
+      "name": "BIRA",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542628/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20222",
+      "name": "FABINHO TARDIN",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542638/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20300",
+      "name": "CARLOS KAN",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542631/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20321",
+      "name": "BETO DOIS A UM",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542649/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20322",
+      "name": "KAREN ROCHA",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542637/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20333",
+      "name": "PRISCILA DOURADO",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542627/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20364",
+      "name": "RAFAEL MACHADO",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542648/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20400",
+      "name": "ALEX RODRIGUES",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542635/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20444",
+      "name": "GEOVANE GAMBA",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542630/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20456",
+      "name": "VALDENIRIA DUTRA",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542641/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20500",
+      "name": "ADELCINO LOPO",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542646/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20700",
+      "name": "JOIZE MARQUES",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542633/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20777",
+      "name": "MARCOS PAULISTA",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542651/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "20999",
+      "name": "SCHEILA PEDROSO",
+      "party": "PODEMOS",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542644/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22000",
+      "name": "ESCOBAR",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539236/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22001",
+      "name": "SONIA CASSOL",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539013/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22002",
+      "name": "MARCELO JAPA",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552069/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22007",
+      "name": "OTÁVIO XERIFE",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539006/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22022",
+      "name": "ABMAEL BORGES",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539002/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22111",
+      "name": "IRMÃO GEREMIAS",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539012/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22122",
+      "name": "ZÉ MARCIO GUEDES DO PL",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539004/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22123",
+      "name": "ALCINO BARCELOS",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539005/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22163",
+      "name": "JANE DELALIBERA",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552067/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22220",
+      "name": "VITOR GABRIEL",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539235/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22222",
+      "name": "GILBERTO CATTANI",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539234/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22233",
+      "name": "JERÔNIMO GONÇALVES",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539009/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22300",
+      "name": "SAMANTHA DO ABILIO",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539240/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22321",
+      "name": "ELAINE SEIBEL",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540416/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22322",
+      "name": "PROFESSORA MAZÉ",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539003/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22345",
+      "name": "CLEUZIJAN SOUZA",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539011/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22444",
+      "name": "FAISSAL",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539237/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22555",
+      "name": "ALEX CARDOZO",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539010/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22722",
+      "name": "RAFAEL YONEKUBO",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539007/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22727",
+      "name": "PASTOR MANOEL",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552070/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22777",
+      "name": "DAISE MARTINS",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539239/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22789",
+      "name": "PABLO KAMAIURÁ",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540415/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22888",
+      "name": "DRA. LUCIANA HORTA",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539238/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22989",
+      "name": "ROSANE 300",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552068/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22999",
+      "name": "PROF. GILMAR MIRANDA",
+      "party": "PL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539008/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "23000",
+      "name": "ALDEMIR DA VIAÇÃO JUINA",
+      "party": "CIDADANIA",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002554221/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "23333",
+      "name": "DRA. VANYA NONATO",
+      "party": "CIDADANIA",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002554218/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30000",
+      "name": "MÉDICO WALID KHALIL",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543942/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30007",
+      "name": "HEDVALDO COSTA",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543929/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30022",
+      "name": "DR.ª FLAVIANE RAMALHO",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543937/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30030",
+      "name": "DRA. ANA ROSA JOB",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543950/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30077",
+      "name": "REGIS CARDOSO",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543945/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30100",
+      "name": "NELES DO OPERÁRIO",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543931/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30111",
+      "name": "WELLINGTON WG",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543948/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30122",
+      "name": "VANDINHO PATRIOTA",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543943/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30123",
+      "name": "FRIDA AILA",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543935/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30190",
+      "name": "ELIZEU NASCIMENTO",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543944/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30200",
+      "name": "IRMÃO APARECIDO",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543951/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30220",
+      "name": "IRMÃO DO SALÃO",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543928/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30222",
+      "name": "VICTOR CARVALHO",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543938/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30234",
+      "name": "RIENE ENFERMEIRA",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543949/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30300",
+      "name": "CEZAR ECON",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543932/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30333",
+      "name": "ARTHUR GARCIA",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543940/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30444",
+      "name": "PASTOR SARGENTO GUALTERNEY",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543936/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30456",
+      "name": "FREDISON DIAS",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543927/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30500",
+      "name": "MILTON BALDIN",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543946/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30555",
+      "name": "MISSIONÁRIA ELAINE BELUSSI",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543930/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30678",
+      "name": "SILVESTRE",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543934/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30711",
+      "name": "REGINA FERRAZ",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543939/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30777",
+      "name": "PASTOR SAMUEL FERREIRA",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543933/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30900",
+      "name": "ROSÂNGELA SANTOS",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543947/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "30999",
+      "name": "SARGENTO JUCÁ",
+      "party": "NOVO",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543941/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36000",
+      "name": "CARLOS SEVERIANO",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553688/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36022",
+      "name": "PAULO RIBEIRO",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553689/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36066",
+      "name": "ITALO ROSSATO",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553693/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36112",
+      "name": "OSVALDINO MARTINS",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553685/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36123",
+      "name": "MARIZETE DA SAÚDE",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553691/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36144",
+      "name": "SARGENTO CLAUDINEI RIBEIRO",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553700/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36163",
+      "name": "PIRATA DO MATO GROSSO",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553692/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36188",
+      "name": "PASTORA ELIETTY",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553697/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36234",
+      "name": "PASTORA REGINA",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553698/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36236",
+      "name": "AMOREZIO",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553687/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36444",
+      "name": "MARY EVANGELISTA",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553694/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36500",
+      "name": "MATHEUS PUCINELI",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553690/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36555",
+      "name": "CAPITÃO MARCO ANTONIO",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553695/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36666",
+      "name": "DAIANE RODRIGUES",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553686/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36777",
+      "name": "JONAS CABANHA",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553699/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36999",
+      "name": "DR. THIAGO SILVA",
+      "party": "AGIR",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553696/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "43000",
+      "name": "ZÉ CARLOS DO PÁTIO",
+      "party": "PV",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543205/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "43123",
+      "name": "ROSENWAL RODRIGUES",
+      "party": "PV",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543210/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "43333",
+      "name": "PASTORA KATIA MORAIS",
+      "party": "PV",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543193/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "43433",
+      "name": "PAOLLA DIAS",
+      "party": "PV",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543198/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "43456",
+      "name": "CARLOS WAGNER",
+      "party": "PV",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543200/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "44000",
+      "name": "SULA",
+      "party": "UNIÃO BRASIL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550479/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "44044",
+      "name": "ENGº SEBASTIÃO MACHADO REZENDE",
+      "party": "UNIÃO BRASIL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550704/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "44123",
+      "name": "JULIO CAMPOS",
+      "party": "UNIÃO BRASIL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550705/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "44125",
+      "name": "DILMAR DAL BOSCO",
+      "party": "UNIÃO BRASIL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550706/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "44180",
+      "name": "CENIRA EVANGELISTA",
+      "party": "UNIÃO BRASIL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550480/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "44222",
+      "name": "SUBTENENTE ANTÔNIO",
+      "party": "UNIÃO BRASIL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550702/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "44444",
+      "name": "MICHELLY ALENCAR",
+      "party": "UNIÃO BRASIL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550478/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "44555",
+      "name": "ANA PAULA LEIRIA",
+      "party": "UNIÃO BRASIL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550701/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "44777",
+      "name": "WENDER RAMON",
+      "party": "UNIÃO BRASIL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550703/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45000",
+      "name": "SHEILA KLENER",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541768/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45015",
+      "name": "UELIDA RIBEIRO",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541757/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45022",
+      "name": "COWBOY DO POVO",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541776/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45045",
+      "name": "ADENILSON ROCHA",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541753/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45100",
+      "name": "DR ODENILSON",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541756/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45111",
+      "name": "DANIEL DO LAGO",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541771/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45123",
+      "name": "CARLOS SIRENA",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541773/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45163",
+      "name": "HUGO GARCIA",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541754/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45190",
+      "name": "LIGI ALMEIDA",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541766/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45193",
+      "name": "CORONEL AGNALDO PEREIRA",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541759/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45222",
+      "name": "VALCIMAR FUZINATO",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541775/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45244",
+      "name": "SARGENTO SALAMALEICO",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541770/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45333",
+      "name": "MOACIR COUTO",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541769/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45400",
+      "name": "HORACIO PEREIRA",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541761/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45450",
+      "name": "EMANUELLE BRASIL",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541767/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45451",
+      "name": "EDIANA F. CAMPOS",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541755/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45456",
+      "name": "FERNANDO SCHROETER",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541774/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45500",
+      "name": "CARLOS AVALLONE",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541772/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45555",
+      "name": "DR MARCOS VINÍCIUS",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541764/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45600",
+      "name": "NELSON PAIM",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541777/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45627",
+      "name": "ELO FONTES",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541758/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45678",
+      "name": "CHICO GUARNIERI",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541763/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45777",
+      "name": "PRA ELIANE CÂNDIDA",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541762/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45789",
+      "name": "JUCA DO GUARANÁ",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541760/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "45977",
+      "name": "KETY PREZA",
+      "party": "PSDB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541765/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50010",
+      "name": "ROGÉRIO MESTRINHO",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548605/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50011",
+      "name": "ANTÔNIO DUARTE",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552140/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50050",
+      "name": "CAROLINA GUIMARÃES",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548604/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50100",
+      "name": "JANAÍNA LIMA APRESENTADORA",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548606/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50123",
+      "name": "RUBENS CANTUÁRIO",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548615/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50222",
+      "name": "PAULO FREIRE",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548601/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50255",
+      "name": "ISAAC ANTÔNIO",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548619/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50275",
+      "name": "GILBERTO LOPES FILHO",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548618/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50333",
+      "name": "JENEFFER CAMPOS",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548607/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50555",
+      "name": "DUÍCO DA MANGA",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548610/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50629",
+      "name": "FRACARO",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548611/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50630",
+      "name": "PEZÃO",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548616/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50777",
+      "name": "FELÍCIA DIAS",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548617/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "50888",
+      "name": "BODINHO",
+      "party": "PSOL",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548623/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55000",
+      "name": "MARCOS RIBEIRO",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549719/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55007",
+      "name": "ELIANE RIBEIRO",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549724/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55017",
+      "name": "JUCELMA OLIVEIRA",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549731/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55022",
+      "name": "LUCIVALDO DO SINDISPPEN",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549734/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55055",
+      "name": "GILMAR FABRIS",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549736/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55100",
+      "name": "WILSON SANTOS",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549739/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55111",
+      "name": "CABRAL",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549728/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55123",
+      "name": "RAFAELA FÁVARO",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549730/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55163",
+      "name": "FLAVIO CAMINHONEIRO",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549737/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55180",
+      "name": "KARIME DOGAN",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549721/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55190",
+      "name": "T. CORONEL WELLISON",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549722/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55222",
+      "name": "ITAMI DOS SANTOS",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549729/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55234",
+      "name": "PROFESSOR EDIVALDO",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549733/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55321",
+      "name": "IVO GREGÓRIO",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549723/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55333",
+      "name": "BRUNA SANTIAGO",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549720/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55455",
+      "name": "DR. MANOEL",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549725/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55456",
+      "name": "BOSCO",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549718/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55555",
+      "name": "PADRE SEBASTIÃO",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549735/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55667",
+      "name": "MABEL",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549740/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55678",
+      "name": "DR. KLEBER AMORIM",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549732/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55777",
+      "name": "RENIVALDO NASCIMENTO",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549726/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55789",
+      "name": "VALTER KUHN",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549738/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55999",
+      "name": "LEIVA LELE",
+      "party": "PSD",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549727/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "65013",
+      "name": "DOUTOR JOSUÉ",
+      "party": "PCdoB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543202/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "65100",
+      "name": "RONI VALTER",
+      "party": "PCdoB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543195/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "65123",
+      "name": "LUCIENE NEVES",
+      "party": "PCdoB",
+      "office": "estadual",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543191/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1000",
+      "name": "DR. LEONARDO",
+      "party": "REPUBLICANOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549183/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1001",
+      "name": "IZALBA DA SAÚDE",
+      "party": "REPUBLICANOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549190/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1010",
+      "name": "JUAREZ COSTA",
+      "party": "REPUBLICANOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549187/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1020",
+      "name": "JULIANA KOLANKIEWICZ",
+      "party": "REPUBLICANOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549188/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1022",
+      "name": "WENDER MADUREIRA FILHO",
+      "party": "REPUBLICANOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549185/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1023",
+      "name": "EDUARDO MAGALHÃES",
+      "party": "REPUBLICANOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549182/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1044",
+      "name": "FERNANDO JAPIDINHO",
+      "party": "REPUBLICANOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549184/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1051",
+      "name": "ACACIO AMBROSINI",
+      "party": "REPUBLICANOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549189/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1055",
+      "name": "ALINE FELIX",
+      "party": "REPUBLICANOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549186/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1110",
+      "name": "PAULO JOSÉ",
+      "party": "PP",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550869/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1111",
+      "name": "NILSON LEITÃO",
+      "party": "PP",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550864/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1116",
+      "name": "LUCIENE KAYABI",
+      "party": "PP",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550868/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1123",
+      "name": "VICTÓRIO GALLI",
+      "party": "PP",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550871/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1177",
+      "name": "MAGALY",
+      "party": "PP",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550865/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1200",
+      "name": "MALVINEIDE MIRANDA",
+      "party": "PDT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547786/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1201",
+      "name": "SABRINA FERCO",
+      "party": "PDT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547787/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1211",
+      "name": "CRISTIANO CORRETOR",
+      "party": "PDT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547785/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1212",
+      "name": "JAIR DO POVO",
+      "party": "PDT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547791/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1220",
+      "name": "CRISTIANO SILVA",
+      "party": "PDT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547790/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1222",
+      "name": "MARCELO TERRA",
+      "party": "PDT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551965/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1230",
+      "name": "ANDREIA SCHWARZ",
+      "party": "PDT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551964/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1234",
+      "name": "MIRIAM CALAZANS",
+      "party": "PDT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547788/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1260",
+      "name": "DARLENE TAUKANE",
+      "party": "PDT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547789/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1299",
+      "name": "CARLOS HENRIQUE BONSI CHECOLI",
+      "party": "PDT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002554362/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1300",
+      "name": "PROFª LELIANE BORGES",
+      "party": "PT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542600/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1311",
+      "name": "ALTIR PERUZZO",
+      "party": "PT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542608/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1313",
+      "name": "PROFESSORA ROSA NEIDE",
+      "party": "PT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542607/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1330",
+      "name": "LÉO RONDON",
+      "party": "PT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542603/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1355",
+      "name": "JAMES CABRAL",
+      "party": "PT",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542601/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1400",
+      "name": "JÚLIA GALDINO",
+      "party": "MISSÃO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543954/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1414",
+      "name": "BERNARDO SABE",
+      "party": "MISSÃO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543956/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1421",
+      "name": "NATALI LIMA",
+      "party": "MISSÃO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543957/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1433",
+      "name": "LEONARDO LANDOVOIGT",
+      "party": "MISSÃO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543958/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1444",
+      "name": "MURILO MARTINS",
+      "party": "MISSÃO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543955/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1477",
+      "name": "RADMAN GADIEL",
+      "party": "MISSÃO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543959/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1800",
+      "name": "ERON CABRAL",
+      "party": "REDE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548599/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1810",
+      "name": "PROF. MIGUEL COSTA",
+      "party": "REDE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548600/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1818",
+      "name": "FRAN MEGA HAIR",
+      "party": "REDE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548594/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "1865",
+      "name": "IRENE MESSIAS",
+      "party": "REDE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548597/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2000",
+      "name": "DELEGADO FRED MURTA",
+      "party": "PODEMOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540124/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2010",
+      "name": "KALYNKA MEIRELLES",
+      "party": "PODEMOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540132/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2011",
+      "name": "NERI GELLER",
+      "party": "PODEMOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540131/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2020",
+      "name": "NELSON BARBUDO",
+      "party": "PODEMOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540127/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2022",
+      "name": "PASTOR MARCOS RITELA",
+      "party": "PODEMOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540129/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2026",
+      "name": "FERNANDO GORGEN",
+      "party": "PODEMOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540126/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2044",
+      "name": "CORONEL ROVERI",
+      "party": "PODEMOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540128/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2050",
+      "name": "GISA BARROS",
+      "party": "PODEMOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540125/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2080",
+      "name": "KATIUSCIA MANTELI",
+      "party": "PODEMOS",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540130/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2200",
+      "name": "DR. GIOVANI MENDES",
+      "party": "PL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002538409/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2202",
+      "name": "THIAGO BOAVA HEY ROY",
+      "party": "PL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002538413/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2210",
+      "name": "LUIZA BÖER",
+      "party": "PL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002538412/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2211",
+      "name": "RANALLI",
+      "party": "PL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002538408/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2220",
+      "name": "GILBERTO MELLO",
+      "party": "PL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002539241/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2222",
+      "name": "CORONEL FERNANDA",
+      "party": "PL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002538411/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2226",
+      "name": "GISLAINE YAMASHITA",
+      "party": "PL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002538407/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2233",
+      "name": "RODRIGO DA ZAELI",
+      "party": "PL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002538954/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2244",
+      "name": "CORONEL ASSIS",
+      "party": "PL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002538410/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2500",
+      "name": "RONARIO NUNES",
+      "party": "PRD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547776/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2522",
+      "name": "ALÊ AGRELLA",
+      "party": "PRD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547783/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2525",
+      "name": "SARGENTO ERVESON",
+      "party": "PRD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547782/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2530",
+      "name": "TOTÓ DA SAÚDE",
+      "party": "PRD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547780/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2535",
+      "name": "IZENILDA SANTOS",
+      "party": "PRD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547784/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2555",
+      "name": "DR. FLORIZAN",
+      "party": "PRD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547777/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2577",
+      "name": "DARLAN CARVALHO",
+      "party": "PRD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002554100/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2700",
+      "name": "NELSON DE FARIA",
+      "party": "DC",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552088/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2707",
+      "name": "NATANAEL PEREIRA",
+      "party": "DC",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552090/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2720",
+      "name": "LUSIMAR DA CANAÃ",
+      "party": "DC",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552089/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2722",
+      "name": "PRISCILA ADVOGADA",
+      "party": "DC",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553725/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2727",
+      "name": "MANINHO",
+      "party": "DC",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552092/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "2777",
+      "name": "JECIMAR FERREIRA",
+      "party": "DC",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552091/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3000",
+      "name": "CAIO CORDEIRO",
+      "party": "NOVO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543922/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3001",
+      "name": "CABO MENEGATTI",
+      "party": "NOVO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543924/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3003",
+      "name": "DOUTORA DÉBORA",
+      "party": "NOVO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543920/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3010",
+      "name": "A CAREQUINHA",
+      "party": "NOVO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543918/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3022",
+      "name": "BOLSONARO DA SHOPEE",
+      "party": "NOVO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543926/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3026",
+      "name": "VINICIUS SANTANA",
+      "party": "NOVO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543925/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3030",
+      "name": "PROFESSOR HAROLDO",
+      "party": "NOVO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543921/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3044",
+      "name": "GAL RODRIGUES",
+      "party": "NOVO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543919/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3090",
+      "name": "CARLOS DORILÊO JR",
+      "party": "NOVO",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543923/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3500",
+      "name": "RODRIGO SANT`ANA",
+      "party": "DEMOCRATA",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547823/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3510",
+      "name": "CABO KELVIN",
+      "party": "DEMOCRATA",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547822/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3522",
+      "name": "CESAR LIMA",
+      "party": "DEMOCRATA",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547825/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3525",
+      "name": "SARGENTO ANDRÉIA ANDRADE",
+      "party": "DEMOCRATA",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547824/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3535",
+      "name": "CLAUDIA NÓIA",
+      "party": "DEMOCRATA",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547821/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3600",
+      "name": "WILER VITORIO",
+      "party": "AGIR",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551936/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3622",
+      "name": "CARLOS LONGO",
+      "party": "AGIR",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551937/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3626",
+      "name": "BISPO JEFFERSON OLIVEIRA",
+      "party": "AGIR",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551938/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3636",
+      "name": "YSANI",
+      "party": "AGIR",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551935/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3666",
+      "name": "VANDA",
+      "party": "AGIR",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551941/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3693",
+      "name": "CABO LUÍS ROBERTO",
+      "party": "AGIR",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551939/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "3699",
+      "name": "IRENE LOPES",
+      "party": "AGIR",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551940/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4000",
+      "name": "VALDIR RIBEIRO",
+      "party": "PSB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551514/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4020",
+      "name": "PÉ NO CHÃO",
+      "party": "PSB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551511/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4022",
+      "name": "NILCE SANTANA",
+      "party": "PSB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551512/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4040",
+      "name": "DR. EDUARDO GOMES",
+      "party": "PSB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551510/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4042",
+      "name": "JOANA D'ARC",
+      "party": "PSB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551513/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4044",
+      "name": "ALEX FRAGA",
+      "party": "PSB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551515/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4300",
+      "name": "DONA NEUMA",
+      "party": "PV",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542606/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4343",
+      "name": "ANTERO",
+      "party": "PV",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542604/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4400",
+      "name": "FÁBIO GARCIA",
+      "party": "UNIÃO BRASIL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550863/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4410",
+      "name": "SANDY DE PAULA",
+      "party": "UNIÃO BRASIL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550867/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4422",
+      "name": "EDUARDO SANCHEZ",
+      "party": "UNIÃO BRASIL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550870/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4444",
+      "name": "VIRGINIA MENDES",
+      "party": "UNIÃO BRASIL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002550866/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4500",
+      "name": "ROBERTO BEZERRA",
+      "party": "PSDB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541779/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4505",
+      "name": "CARLOS MENEGATTI",
+      "party": "PSDB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541778/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4511",
+      "name": "ELINEI MACIEL",
+      "party": "PSDB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541781/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4512",
+      "name": "PROF.ª JACY PROENÇA",
+      "party": "PSDB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541780/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4545",
+      "name": "ENFERMEIRO DEJAMIR SOARES",
+      "party": "PSDB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541782/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4550",
+      "name": "DAIARA ROCHO",
+      "party": "PSDB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002554217/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "4555",
+      "name": "CLÉBIO MOTORISTA",
+      "party": "PSDB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002541783/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5000",
+      "name": "ADRIANA LIARIO",
+      "party": "PSOL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548598/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5013",
+      "name": "MILTÃO",
+      "party": "PSOL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548592/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5022",
+      "name": "PASTOR JERONIMO GOMES",
+      "party": "PSOL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548595/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5050",
+      "name": "JOSÉ ROBERTO",
+      "party": "PSOL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548593/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5070",
+      "name": "MÃE KAKÁ GARCIA DO PSOL",
+      "party": "PSOL",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548596/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5500",
+      "name": "IRAJÁ LACERDA",
+      "party": "PSD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548038/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5505",
+      "name": "PROFESSOR SIVIRINO",
+      "party": "PSD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548033/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5510",
+      "name": "FLAVINHA",
+      "party": "PSD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548040/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5513",
+      "name": "VALTENIR PEREIRA",
+      "party": "PSD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548035/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5515",
+      "name": "EMANUELZINHO",
+      "party": "PSD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548041/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5525",
+      "name": "SARAH BOTELHO",
+      "party": "PSD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548037/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5555",
+      "name": "PROCURADOR MAURO",
+      "party": "PSD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548036/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5566",
+      "name": "MARILDES",
+      "party": "PSD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548034/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "5588",
+      "name": "CHICO CURVO",
+      "party": "PSD",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548039/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "6513",
+      "name": "PROFESSORA GRACIELE",
+      "party": "PCdoB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542605/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "6543",
+      "name": "NOEL COLETIVO TRABALHISTA",
+      "party": "PCdoB",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002542602/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7000",
+      "name": "PAULA BOAVENTURA",
+      "party": "AVANTE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549923/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7007",
+      "name": "ÍVINA DA ENFERMAGEM",
+      "party": "AVANTE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549926/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7010",
+      "name": "JAMILSON MOURA",
+      "party": "AVANTE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549925/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7011",
+      "name": "LIDIANE ABURAD",
+      "party": "AVANTE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549922/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7022",
+      "name": "LUIS COSTA",
+      "party": "AVANTE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549929/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7026",
+      "name": "LUCIANO RODRIGUES",
+      "party": "AVANTE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549928/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7070",
+      "name": "MAICON PEREIRA",
+      "party": "AVANTE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549924/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7077",
+      "name": "PASTOR NEVITON",
+      "party": "AVANTE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549921/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7090",
+      "name": "CHARLES FERNANDO",
+      "party": "AVANTE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002549927/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7700",
+      "name": "RODRIGO GUILHERME",
+      "party": "SOLIDARIEDADE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547781/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7744",
+      "name": "BUENO",
+      "party": "SOLIDARIEDADE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547779/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "7777",
+      "name": "JAMILLE CARRASCO",
+      "party": "SOLIDARIEDADE",
+      "office": "federal",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002547778/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "111",
+      "name": "MARGARETH BUZETTI",
+      "party": "PP",
+      "office": "senador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551967/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "150",
+      "name": "JANAINA RIVA",
+      "party": "MDB",
+      "office": "senador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552698/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "222",
+      "name": "ZÉ MEDEIROS",
+      "party": "PL",
+      "office": "senador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002552693/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "351",
+      "name": "CORONEL DARWIN",
+      "party": "DEMOCRATA",
+      "office": "senador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002548042/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "360",
+      "name": "PROFESSOR NELSON FERREIRA",
+      "party": "AGIR",
+      "office": "senador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553701/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "365",
+      "name": "BENY GODOY",
+      "party": "AGIR",
+      "office": "senador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553706/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "400",
+      "name": "PEDRO TAQUES",
+      "party": "PSB",
+      "office": "senador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002544988/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "444",
+      "name": "MAURO MENDES",
+      "party": "UNIÃO BRASIL",
+      "office": "senador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551966/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "555",
+      "name": "FÁVARO",
+      "party": "PSD",
+      "office": "senador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002544986/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "700",
+      "name": "GALVAN",
+      "party": "AVANTE",
+      "office": "senador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002540403/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "10",
+      "name": "OTAVIANO PIVETTA",
+      "party": "REPUBLICANOS",
+      "office": "governador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551480/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "14",
+      "name": "RAFAELL MILAS",
+      "party": "MISSÃO",
+      "office": "governador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002543953/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "22",
+      "name": "WELLINGTON FAGUNDES",
+      "party": "PL",
+      "office": "governador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002551737/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "33",
+      "name": "MAURICIO COELHO",
+      "party": "Vice: DR. WAGNER MALHEIROSMOBILIZA",
+      "office": "governador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553058/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "36",
+      "name": "SARGENTO LAUDICÉRIO",
+      "party": "AGIR",
+      "office": "governador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002553937/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "55",
+      "name": "DOUTORA NATASHA",
+      "party": "PSD",
+      "office": "governador",
+      "state": "MT",
+      "photo": null,
+      "source": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/CENTROOESTE/MT/20322002026/110002544985/2026/MT",
+      "referenceDate": "2026-09-11"
+    },
+    {
+      "number": "13",
+      "name": "LULA",
+      "party": "PT",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "14",
+      "name": "RENAN SANTOS",
+      "party": "MISSÃO",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "16",
+      "name": "HERTZ DIAS",
+      "party": "PSTU",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "21",
+      "name": "EDMILSON COSTA",
+      "party": "PCB",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "22",
+      "name": "FLÁVIO BOLSONARO",
+      "party": "PL",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "27",
+      "name": "CLARIANA BARÃO",
+      "party": "DC",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "29",
+      "name": "RUI COSTA PIMENTA",
+      "party": "PCO",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "30",
+      "name": "ROMEU ZEMA",
+      "party": "NOVO",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "35",
+      "name": "WILSON GRASSI",
+      "party": "DEMOCRATA",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "55",
+      "name": "RONALDO CAIADO",
+      "party": "PSD",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "70",
+      "name": "AUGUSTO CURY",
+      "party": "AVANTE",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    },
+    {
+      "number": "80",
+      "name": "SAMARA MARTINS",
+      "party": "UP",
+      "office": "presidente",
+      "state": "BR",
+      "photo": null,
+      "source": "https://noticias.uol.com.br/eleicoes/2026/10/02/qual-o-numero-de-lula-e-dos-demais-candidatos-a-presidente-em-2026.ghtm",
+      "referenceDate": "2026-10-02"
+    }
+  ]
+}
