@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: colinha-backend
+    runtime: docker
+    plan: free
+    branch: main
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: SERPAPI_API_KEY
+        sync: false
+      - key: SEARCH_ACCESS_TOKEN
+        generateValue: true
+      - key: ALLOWED_ORIGINS
+        value: https://delta369369.github.io
+      - key: SERPAPI_ZERO_TRACE
+        value: "false"
+      - key: MAX_RESULTS
+        value: "40"
+      - key: LANGUAGE_CHECK_LIMIT
+        value: "40"

@@ -22,7 +22,7 @@ export function createServer({env = process.env, provider, readPage, frontendRoo
   const accessToken = env.SEARCH_ACCESS_TOKEN || '';
   const allowed = new Set((env.ALLOWED_ORIGINS || 'http://localhost:8080').split(',').map(s => s.trim()));
   const apiKey = env.SERPAPI_API_KEY || '';
-  const base = (env.PUBLIC_BASE_URL || '').replace(/\/$/, '');
+  const base = (env.PUBLIC_BASE_URL || env.RENDER_EXTERNAL_URL || '').replace(/\/$/, '');
   let baseValid = false;
   try {const u = new URL(base); baseValid = u.protocol === 'https:' && !u.username && !u.password && !u.search && !u.hash;} catch {}
   const ready = !!(apiKey && accessToken.length >= 24 && baseValid);

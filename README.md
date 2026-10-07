@@ -86,3 +86,11 @@ npm test
 ```
 
 Os testes usam provedor simulado e servidor HTTP local: validam união das duas buscas, consulta única, falha parcial/total, ranking, detecção de idioma, URLs, autenticação, CORS, entrega temporária e exclusão da imagem. Uma pesquisa real precisa da chave e da hospedagem pública do backend, ainda não fornecidas.
+
+## Implantação pronta no Render
+
+O arquivo `render.yaml` cria um Web Service Docker no plano Free a partir deste mesmo repositório. No Render, use **New → Blueprint**, selecione `Delta369369/colinha` e informe `SERPAPI_API_KEY` no painel (não no GitHub). O Render gera `SEARCH_ACCESS_TOKEN` automaticamente. Copie esse token do painel Environment para a configuração da interface.
+
+O servidor detecta automaticamente `RENDER_EXTERNAL_URL`, dispensando o preenchimento manual de `PUBLIC_BASE_URL` no Render. Fora do Render, continue configurando `PUBLIC_BASE_URL`. O endpoint `/api/health` é utilizado como health check e retorna HTTP 200 mesmo se a chave estiver pendente; o campo `ready` informa se as pesquisas estão habilitadas.
+
+Após a implantação, copie a URL real exibida pelo Render e use-a em **Configurar conexão** no site. O plano gratuito pode suspender após inatividade; abra a URL do serviço e aguarde sua reativação antes de pesquisar. A configuração do repositório não cria uma conta Render nem inicia uma hospedagem por si só.
