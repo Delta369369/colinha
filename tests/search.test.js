@@ -50,6 +50,16 @@ test('duas consultas, união e resultados parciais', async () => {
   const partial=await searchImage({provider:{search:async(_image,q)=>{if(q)throw new Error('indisponível');return [{link:'https://example.com/p'}];}},imageUrl:'https://example.com/img',keyword:'x',readPage:async()=>''});
   assert.equal(partial.successfulQueries,1);assert.equal(partial.warnings.length,1);assert.equal(partial.results.length,1);
 });
+test('Lens sem correspondências é resultado vazio, mas falhas continuam explícitas', async () => {
+  const payload={search_metadata:{status:'Success'},search_information:{images_results_state:'Fully empty'},error:"Google Lens hasn't returned any results for this query."};
+  const provider=new SerpApiProvider({apiKey:'secret',fetchImpl:async()=>({ok:true,json:async()=>payload})});
+  const result=await searchImage({provider,imageUrl:'https://example.com/image',keyword:'querencia'});
+  assert.equal(result.successfulQueries,2);assert.deepEqual(result.results,[]);assert.deepEqual(result.warnings,[]);
+  payload.error='Invalid API key: secret';
+  await assert.rejects(()=>provider.search('https://example.com/image'),e=>!e.message.includes('secret'));
+  payload.error="Google Lens hasn't returned any results for this query.";payload.search_metadata.status='Error';
+  await assert.rejects(()=>provider.search('https://example.com/image'));
+});
 test('sem palavra-chave faz só uma consulta e falha total não vira resultado vazio', async () => {
   let n=0;await searchImage({provider:{search:async()=>{n++;return [];}},imageUrl:'https://example.com/img'});assert.equal(n,1);
   await assert.rejects(()=>searchImage({provider:{search:async()=>{throw new Error('falhou');}},imageUrl:'x'}),/falhou/);
