@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark"><meta name="referrer" content="no-referrer">
+  <title>Busca Visual — imagem e contexto</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="config.js" defer></script><script src="app.js" type="module"></script>
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="./"><span class="mark" aria-hidden="true">◈</span> BUSCA VISUAL</a><button id="settings-button" class="quiet" type="button">Configurar conexão</button></header>
+  <main>
+    <section class="intro"><span class="eyebrow">IMAGEM + CONTEXTO</span><h1>Uma imagem.<br><span>Novas fontes.</span></h1><p>Encontre páginas com correspondências visuais. Acrescente uma palavra-chave para explorar o contexto, mantendo a busca ampla.</p></section>
+    <section class="workspace" aria-label="Pesquisa por imagem">
+      <form id="search-form" class="search-panel">
+        <div class="panel-heading"><span class="step">01</span><h2>Sua pesquisa</h2></div>
+        <label id="dropzone" class="dropzone" for="image-input" tabindex="0">
+          <input id="image-input" type="file" accept="image/jpeg,image/png,image/webp,image/gif">
+          <img id="preview" alt="Prévia da imagem selecionada" hidden>
+          <span id="upload-prompt"><span class="upload-icon" aria-hidden="true">↥</span><strong>Arraste uma imagem aqui</strong><span>ou clique para selecionar</span><small>JPEG, PNG, WebP ou GIF · até 5 MB</small></span>
+        </label>
+        <div class="file-info"><span id="file-name">Nenhuma imagem selecionada</span><button type="button" id="clear-image" class="quiet" hidden>Remover</button></div>
+        <label class="field-label" for="keyword">Palavra-chave <span>opcional</span></label>
+        <input id="keyword" type="text" maxlength="200" placeholder="Ex.: Mato Grosso, Querência, Cuiabá" autocomplete="off">
+        <label class="field-label" for="language">Preferência de idioma</label>
+        <select id="language"><option value="pt">Português primeiro</option><option value="all">Todos, sem preferência de idioma</option></select>
+        <p class="field-note">Todos os idiomas e domínios permanecem na pesquisa.</p>
+        <label class="consent"><input id="consent" type="checkbox" required><span>Autorizo o envio desta imagem à SerpApi e ao Google Lens para realizar a pesquisa.</span></label>
+        <button class="primary" id="search-button" type="submit">Pesquisar imagem <span aria-hidden="true">↗</span></button>
+        <p id="connection-status" class="connection" role="status">Verificando conexão…</p>
+        <details class="privacy"><summary>Como a imagem é utilizada</summary><p>O backend disponibiliza a imagem por um link aleatório temporário, acessível a quem tiver esse link. Remove sua cópia da memória ao encerrar a consulta, com limite de três minutos. O arquivo original pode conter metadados.</p><p>Essa exclusão não controla a retenção pela SerpApi ou pelo Google. A SerpApi informa retenção padrão de dados de pesquisa por até 31 dias; ZeroTrace depende do plano e de condições do fornecedor.</p><a href="https://serpapi.com/security" target="_blank" rel="noopener noreferrer">Política do fornecedor ↗</a></details>
+      </form>
+      <section class="results-panel" aria-labelledby="results-heading">
+        <div class="panel-heading"><span class="step">02</span><h2 id="results-heading">Fontes encontradas</h2><span id="result-count" class="count">0</span></div>
+        <div id="status" class="status" role="status" aria-live="polite"></div>
+        <div id="warnings" class="warnings" hidden></div>
+        <div id="empty-state" class="empty-state"><span class="empty-icon" aria-hidden="true">◎</span><h3>Comece com uma imagem</h3><p>Os resultados aparecerão aqui, com a fonte, o idioma e a origem de cada correspondência.</p><div class="flow"><span>Busca visual</span><b>+</b><span>Contexto opcional</span></div></div>
+        <div id="results" class="results-grid"></div>
+        <p id="results-note" class="results-note" hidden>O idioma pode ser estimado pelo texto ou declarado pela página. Correspondência visual não comprova a localização da imagem.</p>
+      </section>
+    </section>
+    <section class="principles"><div><strong>Busca ampla preservada</strong><p>A palavra-chave acrescenta uma consulta, sem substituir a pesquisa original.</p></div><div><strong>Português como preferência</strong><p>Idioma ajuda a ordenar; não determina o país nem exclui outras fontes.</p></div><div><strong>Links para conferir</strong><p>Abra a página original e examine o contexto da publicação.</p></div></section>
+  </main>
+  <footer>BUSCA VISUAL <span>Google Lens via SerpApi · fontes abertas</span></footer>
+  <dialog id="settings-dialog"><form id="settings-form"><span class="eyebrow">CONEXÃO</span><h2>Conectar o backend</h2><p>Informe o endereço do servidor de pesquisa e seu token de acesso. A chave da SerpApi fica somente no servidor.</p><label class="field-label" for="backend-url">Endereço do backend</label><input id="backend-url" type="url" placeholder="https://seu-backend.example.com"><label class="field-label" for="access-token">Token de acesso</label><input id="access-token" type="password" autocomplete="off" required><p class="field-note">O endereço é salvo neste navegador. O token fica apenas na memória desta aba e precisa ser informado após recarregar.</p><p id="settings-error" role="alert"></p><div class="dialog-actions"><button class="quiet" type="button" id="close-settings">Cancelar</button><button class="primary" type="submit">Salvar conexão</button></div></form></dialog>
+  <template id="result-template"><article class="result-card"><div class="thumbnail-wrap"><img class="thumbnail" loading="lazy" alt="Miniatura da correspondência" referrerpolicy="no-referrer"><span class="thumbnail-fallback" hidden>Prévia indisponível</span><span class="number"></span></div><div class="card-body"><span class="source"></span><h3 class="title"></h3><div class="tags"><span class="language-tag"></span><span class="origin-tag"></span></div><p class="language-method"></p><a class="open-link" target="_blank" rel="noopener noreferrer">Abrir página original <span aria-hidden="true">↗</span></a></div></article></template>
+</body>
+</html>
